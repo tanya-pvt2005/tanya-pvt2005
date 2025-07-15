@@ -1,13 +1,12 @@
 ## 👩‍💻 About Me
 
-Hi! I'm Tanya, a passionate and curious developer who loves turning ideas into reality through code. Currently a 3 year CSE student at Chitkara University with active interest in coding, public speaking and leadership activities <3
+I'm a passionate and curious developer who loves turning ideas into reality through code. Currently a 3 year CSE student at Chitkara University with active interest in coding, public speaking and leadership activities <3
 
 - 🔭 I’m currently working on sharpening my **MERN stack** skills
 - 🌱 I’m always learning — currently exploring **Java** and **backend development**
 - 💬 Ask me about **web development**, **problem-solving**, or why my code works 
 - 🌐 I enjoy designing interfaces that feel just right, and writing code that's clean and human-readable
-- ✨ I believe in progress over perfection — solving one problem at a time
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-u-1554a4266/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TanyaPvt05)
 
