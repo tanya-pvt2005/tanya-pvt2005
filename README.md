@@ -36,17 +36,30 @@ Currently a 3rd year CSE student at [Chitkara University](https://www.chitkara.e
 
 &nbsp;
 
-## 🏆 GitHub Stats & Achievements
+## 🏆 Trophees & Achievements
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanya-pvt2005&show_icons=true&theme=radical" alt="Tanya's GitHub Stats" height="180"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-pvt2005&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=tanya-pvt2005&theme=radical&margin-w=10&margin-h=20&no-frame=true&column=5" alt="Tanya's GitHub Trophies"/>
 </div>
 
+&nbsp;
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanya-pvt2005&theme=radical&no-frame=true&column=7" alt="Tanya's GitHub Trophies"/>
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tanya-pvt2005&show_icons=true&theme=radical" alt="Tanya's GitHub Stats" height="180"/>&nbsp;
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-pvt2005&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <br><br>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-pvt2005&theme=radical" alt="GitHub Streak"/>
+  <br><br>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=tanya-pvt2005&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  <br><br>
+  <!-- Contributions Calendar -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=tanya-pvt2005&limit=5&theme=radical" alt="Contribution Calendar"/>
 </div>
 
 &nbsp;
@@ -64,7 +77,3 @@ Currently a 3rd year CSE student at [Chitkara University](https://www.chitkara.e
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](YOUR_X_URL)
 
 &nbsp;
-
-<!--
-Feel free to add featured projects or more sections!
--->
