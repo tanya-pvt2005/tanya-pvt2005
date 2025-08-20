@@ -36,6 +36,15 @@ Currently a 3rd year CSE student at [Chitkara University](https://www.chitkara.e
 
 &nbsp;
 
+---
+
+### 😂 Dev Joke
+
+> Why did the computer catch a cold?  
+> Because it had too many windows open!
+
+---
+
 ## 🏆 Trophees & Achievements
 
 <div align="center">
