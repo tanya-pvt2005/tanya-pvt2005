@@ -61,14 +61,6 @@
 
 ---
 
-## <img src="https://img.icons8.com/color-glass/48/000000/quote.png" width="28"/> Motivational Quote  
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=F36E2C&center=true&vCenter=true&width=650&lines=%22Success+is+not+the+key+to+happiness.+Happiness+is+the+key+to+success.%22+-+Albert+Schweitzer;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Motivational Quote SVG" />
-</div>
-
----
-
 ## <img src="https://img.icons8.com/color/48/000000/communication.png" width="28"/> Contact Me  
 
 <div align="center">
