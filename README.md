@@ -38,14 +38,55 @@ Currently a 3rd year CSE student at [Chitkara University](https://www.chitkara.e
 
 ---
 
-### 😂 Dev Joke
+## 💡 Motivation of the Day
 
-> Why did the computer catch a cold?  
-> Because it had too many windows open!
+> “The only way to do great work is to love what you do.”  
+> — Steve Jobs  
 
 ---
 
-## 🏆 Trophees & Achievements
+## 🏆 Achievements
+
+<div align="center">
+
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70A8D&center=true&vCenter=true&width=650&lines=✨+My+Developer+Journey;🏅+Milestones;🚀+Achievements+Unlocked!" alt="Typing Animation" />
+
+  <br><br>
+
+  <!-- Custom Animated SVG Banner -->
+  <svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background gradient -->
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#f70a8d;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ffcc70;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    
+    <!-- Glowing stars -->
+    <circle cx="50" cy="30" r="4" fill="white">
+      <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="550" cy="50" r="4" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+    </circle>
+    
+    <!-- Trophy emoji with bounce -->
+    <text x="260" y="70" font-size="50" text-anchor="middle">🏆</text>
+    <animateTransform attributeName="transform" type="translate" values="0,5;0,-5;0,5" dur="2s" repeatCount="indefinite" />
+    
+    <!-- Title -->
+    <text x="300" y="110" font-size="26" font-family="Verdana" fill="url(#grad)" text-anchor="middle">
+      Achievements Unlocked 🚀
+    </text>
+  </svg>
+
+</div>
+
+&nbsp;
+
+## 🏅 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanya-pvt2005&theme=radical&margin-w=10&margin-h=20&no-frame=true&column=5" alt="Tanya's GitHub Trophies"/>
@@ -85,4 +126,4 @@ Currently a 3rd year CSE student at [Chitkara University](https://www.chitkara.e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](YOUR_X_URL)
 
-&nbsp;
+&nbsp; 
