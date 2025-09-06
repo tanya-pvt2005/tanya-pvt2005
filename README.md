@@ -19,7 +19,7 @@
 - 🎤 I love **Public Speaking** and leading teams to success  
 - 🎨 Enthusiastic about designing interfaces that *feel just right*  
 - 🌱 Currently exploring **Java** & **Backend Development**  
-- 💡 *Fun fact:* My favorite hobby is turning ideas into reality through clean, human-readable code  
+- 💡 *Fun fact:* I enjoy turning ideas into reality through clean, human-readable code  
 
 ---
 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
+
 <!-- MERN Stack -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -61,15 +61,53 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/communication.png" width="28"/> Contact Me  
+## 🏆 GitHub Trophies  
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-tanya.pvt2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanya.pvt2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanya-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+<img src="https://github-profile-trophy.vercel.app/?username=tanya-pvt2005&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## ⭐ Top Repositories  
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tanya-pvt2005&repo=Portfolio&theme=radical&cache_seconds=0)](https://github.com/tanya-pvt2005/Portfolio)  
+[![BED-3-Year](https://github-readme-stats.vercel.app/api/pin/?username=tanya-pvt2005&repo=BED-3-Year&theme=radical&cache_seconds=0)](https://github.com/tanya-pvt2005/BED-3-Year)  
+[![Execute_CBCK](https://github-readme-stats.vercel.app/api/pin/?username=tanya-pvt2005&repo=Execute_CBCK&theme=radical&cache_seconds=0)](https://github.com/tanya-pvt2005/Execute_CBCK)  
+
+</div>
+
+---
+
+## 👀 Profile Views  
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=tanya-pvt2005&style=flat-square&color=F36E2C)
+
+</div>
+
+---
+
+## 💖 Love for Leadership  
+
+- 🌟 Stratergized, led and won multiple hackathons during college.
+- 🏆 Chairperson @ SCRS-CUIET.  
+- 🎤 Public speaking and mentorship are my ways to inspire innovation and creativity.  
+
+---
+
+## 📫 Contact Me  
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-tanya.pvt2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanya.pvt2005@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanya-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()  
 [![Twitter](https://img.shields.io/badge/Twitter-@tanya_pvt2005-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)]()
-<!-- If you have a portfolio, add link here -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox&logoColor=white)]() -->
 
 </div>
 
